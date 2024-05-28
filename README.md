@@ -1,10 +1,11 @@
 # 🧩무엇이든 물어보고 알아가는 놀이터, 무물
 
 <div align="center">
-  ![무물 타이틀 화면](https://github.com/serethia/serethia/assets/137035446/9e0a114a-e3c8-4f0e-990c-8669a0e2bc00)
-</div>
 
-<hr>
+  ![무물 타이틀 화면](https://github.com/serethia/serethia/assets/137035446/9e0a114a-e3c8-4f0e-990c-8669a0e2bc00)
+
+</div>
+<br>
 
 ## 목차
 
@@ -137,12 +138,15 @@
 
 ##### 📱 Frontend
 
+<span>
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black" width="auto" height="25">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" width="auto" height="25">
 <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" width="auto" height="25">
+</span>
 
 ##### 💻 Backend
 
+<span>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" width="auto" height="25">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" width="auto" height="25">
 <img src="https://img.shields.io/badge/SPRING DATA JPA-6DB33F?style=for-the-badge&logoColor=white" width="auto" height="25"> 
@@ -154,9 +158,11 @@
 <img src="https://img.shields.io/badge/jmeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" width="auto" height="25"> 
 <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" width="auto" height="25"> 
 <img src="https://img.shields.io/badge/BDDMockito-25A162?style=for-the-badge&logo=BDDMockito&logoColor=white" width="auto" height="25">
+</span>
 
 ##### 🚀 Infrastructure
 
+<span>
 <img  src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white" width="auto" height="25" />
 <img  src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white" width="auto" height="25" />
 <img  src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" width="auto" height="25" />
@@ -165,20 +171,25 @@
 <img  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="auto" height="25" />
 <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" width="auto" height="25" />
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" width="auto" height="25" />
+</span>
 
 ##### ⚙️ Management Tools
 
+<span>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&amp;logoColor=white" width="auto" height="25" />
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" width="auto" height="25" />
 <img src="https://img.shields.io/badge/mattermost-0072C6?style=for-the-badge&logo=mattermost&logoColor=white" width="auto" height="25" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" width="auto" height="25" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" width="auto" height="25" />
+</span>
 
 ##### 🖥️ IDE
 
+<span>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visual studio code&logoColor=white" width="auto" height="25"/>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij&logoColor=white"  width="auto" height="25"/>
 <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" width="auto" height="25" />
+</span>
 
 
 
@@ -193,13 +204,17 @@
 #### 1. ERD
 
 <div width="1000px">
+  
   ![erd](https://github.com/serethia/serethia/assets/137035446/dd3e09eb-1799-497f-8b7f-39db19786219)
+  
 </div>
 
 #### 2. 아키텍처
 
 <div width="1000px">
+  
   ![아키텍처](https://github.com/serethia/serethia/assets/137035446/c8c3730e-3ff9-43b1-a7f8-a3933c0669cd)
+  
 </div>
 
 #### [3. 요구 사항 명세서](https://www.notion.so/barded/ff168759aa89438b9585d8243a66baac)
