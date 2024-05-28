@@ -1,7 +1,7 @@
 # 🧩무엇이든 물어보고 알아가는 놀이터, 무물
 
 <div align="center">
-  ![무물 타이틀 화면](/uploads/1021629764c99646b1a9e0bbc3f6124a/image.png)
+  ![무물 타이틀 화면](https://github.com/serethia/serethia/assets/137035446/9e0a114a-e3c8-4f0e-990c-8669a0e2bc00)
 </div>
 
 <hr>
@@ -193,13 +193,13 @@
 #### 1. ERD
 
 <div width="1000px">
-  ![erd](/uploads/e2a3c0bfaa28d8e1913bea51cc6b406f/erd.PNG)
+  ![erd](https://github.com/serethia/serethia/assets/137035446/dd3e09eb-1799-497f-8b7f-39db19786219)
 </div>
 
 #### 2. 아키텍처
 
 <div width="1000px">
-  ![아키텍처](/uploads/bdaa211b0e3d4d78a613940de2205a7d/아키텍처.png)
+  ![아키텍처](https://github.com/serethia/serethia/assets/137035446/c8c3730e-3ff9-43b1-a7f8-a3933c0669cd)
 </div>
 
 #### [3. 요구 사항 명세서](https://www.notion.so/barded/ff168759aa89438b9585d8243a66baac)
